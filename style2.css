@@ -239,7 +239,7 @@ span:hover{
 
 @media screen and (orientation: portrait) and (max-width: 1080px){
 	.container-cl{
-		grid-template-columns: auto auto;
+		grid-template-columns: auto;
 	}
 	.sect-2 ul li:hover{
 		left: 0px;
@@ -250,6 +250,9 @@ span:hover{
 	}
 	.bargo li:hover{
 		list-style: decimal-leading-zero;
+	}
+	.container-cl a{
+		max-width: 75vw;
 	}
 }
 
