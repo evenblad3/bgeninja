@@ -1,8 +1,7 @@
 # BGENinja
-Tutorials for [UPBGE 2.5b](https://upbge.org/)+ and [Range Engine](https://rangeengine.tech/) with project files.
+### Visit the site: **evenblad3.github.io/bgeninja**
 
-## About
-This site is meant to be a replacement for the old BGE tutorial website, [blendergames3d](https://web.archive.org/web/20230606101117/http://tutorialsforblender3d.com/) and keep the engine's legacy and the community alive.
+Tutorials for [UPBGE](https://upbge.org/) and [Range Engine](https://rangeengine.tech/) with project files.
 
-## Submitting Tutorials
-**Please**, feel free to submit your tutorials in my discord DMs, and yes you **WILL** be credited.
+## Contributing
+If you're interesting in contributing for the betterment of this site, please consider reading [CONTRIBUTING](/CONTRIBUTING.md).
