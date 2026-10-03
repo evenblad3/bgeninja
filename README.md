@@ -1,5 +1,5 @@
 # BGENinja
-### Visit the site: **evenblad3.github.io/bgeninja**
+### Visit the site: [evenblad3.github.io/bgeninja](evenblad3.github.io/bgeninja)
 
 Tutorials for [UPBGE](https://upbge.org/) and [Range Engine](https://rangeengine.tech/) with project files.
 
